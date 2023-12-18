@@ -15,7 +15,10 @@
 }
 
 .titleee {
-    font-family: fantasy;
+    font-family: 'Bebas Neue';
+    font-weight: bold;
+    font-size: 40px;
+    letter-spacing: 1px;
 }
 
 .navbar2 {
@@ -51,6 +54,7 @@
 .bu {
     margin-left: 115px;
     font-size: 15px;
+    letter-spacing: 2px;
 }
 
 #acro {
@@ -187,7 +191,7 @@
     padding: 5px 10px 5px 10px;
     cursor: pointer;
     text-decoration: none;
-    font-family: fantasy;
+    font-family: 'Bebas Neue';
     position: relative;
 }
 
@@ -329,10 +333,11 @@
     background: -webkit-linear-gradient(gold, rgb(227, 161, 28));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-family: fantasy;
+    font-family: 'Bebas Neue';
     margin: 30px auto 0 80px;
     text-align: center;
     width: 690px;
+    font-weight: bold;
 }
 
 #ba,
@@ -356,10 +361,11 @@
     background: -webkit-linear-gradient(gold, rgb(227, 161, 28));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-family: fantasy;
-    margin: 30px auto 30px 400px;
+    font-family: 'Bebas Neue';
+    margin: 30px auto 30px 410px;
     text-align: center;
     width: 690px;
+    font-weight: bold;
 }
 
 .ayokona2 {
@@ -368,8 +374,9 @@
     background: -webkit-linear-gradient(gold, rgb(227, 161, 28));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-family: fantasy;
-    margin: 0 auto 50px 525px;
+    font-family: 'Bebas Neue';
+    margin: 0 auto 50px 570px;
     width: 690px;
+    font-weight: bold;
 
 }
